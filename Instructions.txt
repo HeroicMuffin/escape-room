@@ -9,4 +9,6 @@ In order to start the game:
 3. Build the escape room: `docker build -t escape-room .` (dont forget the at the end of the command - its important!).
 4. Run the game: `docker run -it escape-room` (further instructions inside!).
 
+Solutions included in the Repo
+
 Good Luck!
