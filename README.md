@@ -1,6 +1,6 @@
 Bash Escape Room
 ================
-The Bash Escape Room is a Docker based excercise (dont worry, well learn much more about Docker a bit later).
+The Bash Escape Room is a Docker based excercise.
 
 In order to start the game:
 
